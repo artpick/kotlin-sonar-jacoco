@@ -20,6 +20,6 @@ Check you got the coverage.
 
 ## Warnings!
 
- * Keep the maven java structured project **src/main/java**
+ * Keep the maven java structured project **src/main/java** (this seems to be wrong since I tested it with another project, seems the next note was the real issue)
  * You can't just write code in the root folder, it will not be analysed
  
